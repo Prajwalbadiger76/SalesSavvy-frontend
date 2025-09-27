@@ -28,11 +28,11 @@ SalesSavvy is a **full-stack e-commerce web application** built to deliver a sea
 ```bash
 # Frontend
 git clone https://github.com/Prajwalbadiger76/SalesSavvy-full-stack-project.git
-cd SALESSAVVY
+cd frontend
 npm install
 npm run dev
 
 # Backend
 git clone https://github.com/Prajwalbadiger76/SalesSavvy-full-stack-project.git
-cd SalesSavvyBackend
+cd backend
 mvn spring-boot:run
